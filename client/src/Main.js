@@ -1,8 +1,12 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 
 
 const Main =()=>{
 
+
+    useEffect(()=>{
+        
+    },[])
 
     return(
         <main>
